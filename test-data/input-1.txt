@@ -1,0 +1,4 @@
+# Test SINGLE firing from primary store
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+EXIT

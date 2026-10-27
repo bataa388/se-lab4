@@ -1,0 +1,4 @@
+# Primary store empty, secondary store stocked
+GT4500,0,0,10,0
+TORPEDO,SINGLE
+EXIT

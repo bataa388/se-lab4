@@ -1,0 +1,5 @@
+
+# Primary fails, secondary succeeds in ALL mode
+GT4500,10,1,10,0
+TORPEDO,ALL
+EXIT
