@@ -1,0 +1,5 @@
+
+# Both stores are empty in SINGLE mode
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+EXIT

@@ -1,0 +1,5 @@
+
+# Test ALL with both stores stocked and no failures
+GT4500,10,0,10,0
+TORPEDO,ALL
+EXIT

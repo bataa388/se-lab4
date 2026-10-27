@@ -1,0 +1,5 @@
+
+# Primary store has a 100% failure rate
+GT4500,10,1,10,0
+TORPEDO,SINGLE
+EXIT
